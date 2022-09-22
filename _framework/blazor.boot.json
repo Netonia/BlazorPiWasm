@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "BlazorPiWasm.dll": "sha256-Schd+xYND6MtxxTeGsMAaxIRo1R9j8c25\/CFEUCNMK0=",
+      "BlazorPiWasm.dll": "sha256-MZf\/64H0jB2i2YppB06MvmZyBau1L\/PAJ9Zh9FZPhU8=",
       "Microsoft.AspNetCore.Components.dll": "sha256-o+DCZzd\/cEgaDz+QwS0AK5NXM9IhfrVEV7Oy1ObN3gI=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-YO\/Mg8qGsM8cmHUYLF58NwnUdh\/X+6zSBiVqweXr5HM=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-AS6gdN27NaWqNunmEHps\/VGnWXlKAT+UoZEXm5tKQko=",
